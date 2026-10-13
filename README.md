@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Jun.
+
+- Computer Science | Mathematics @ UW-Madison
 
 <!--
 **Junseo-PI/Junseo-PI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
