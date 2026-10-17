@@ -18,7 +18,7 @@ CS + Math @ UW–Madison · I like building things that people actually use
 |---|---|
 | **Languages** | Python · C · Java · C++ · JavaScript |
 | **Hardware** | Raspberry Pi · Arduino |
-| **Mobile & Web** | Android · Django · Firebase |
+| **Mobile & Web** | Android · Spring Boot · Django · Firebase |
 | **Data & Tools** | NumPy · SciPy · PyQt · Git · Linux |
 
 ## GitHub Stats
